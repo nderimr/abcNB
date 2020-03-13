@@ -1,0 +1,44 @@
+body
+{
+    background-color:#e0ebeb
+}
+table.productList
+{
+    background-color:#ffffcc
+}
+table.hasItems
+{
+    background-color:slategray
+}
+.selectItems
+{
+  background-color: rgb(187, 207, 226);
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+}
+.button {
+    background-color: rgb(109, 122, 110); 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .price
+  {
+      font-weight: bold;
+      font-family: sans-serif;
+  }
+  div.header
+  {
+      background-color: slategray;
+      width: 87%;
+      height: 40px;
+  }
+  .resetRates
+  {
+    float: right;
+    height: 100%;
+  }
